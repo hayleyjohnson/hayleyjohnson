@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @hayleyjohnson
+- 👋 Hi, I’m @hayley
 - 👀 I’m interested in technology, cycling, pets, and social organizing
 - 🌱 I’m currently learning how to play piano!
 - 💞️ I’m looking to collaborate on learning to be a developer because I'm a n00b.
